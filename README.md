@@ -3,3 +3,7 @@ Octave version of the matlab scripts listed in the appendix of https://link.spri
 
 * The url of http://cas.tyndall.ie is no more available.
 * The matlab scripts is not 100% compatible with octave and a slight modification, especially for symbolic operation, has been applied.
+
+* Load 2 packages before run : can be figured out by just reading the message of octave.
+  - pkg load symbolic
+  - pkg load signal
